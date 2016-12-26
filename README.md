@@ -4,7 +4,7 @@ Publish http request to nsqd with custom topic. (for record logs)
 ## Installation
 
 ```
-$ go get github.com/0neSe7en/http_to_nsqd
+$ go get github.com/duobeiyun/http_to_nsqd
 ```
 
 ## About
